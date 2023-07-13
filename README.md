@@ -1,6 +1,6 @@
 # Classifying certain music genre and others utilizing Log-likelihood Ratio and Logistic Regression
 
-### Operationalization: 2021/2022
+### Operationalization: 2021
 
 Below you will find the list of the imported libraries for being able to use certain functions for desired usage.
 
@@ -35,6 +35,8 @@ Explanation of library usage
 - collections: for counting words within a collection
 
 # Approach
+
+Question: Are there any distinguishable features of a pop song? In other words: what sets a pop song (lyrically) apart from other genres?
 
 In order to answer this question, we must first understand the question posed. The producer would like to know the characteristics of a pop song. This means that we have to extract the characteristics of the pop song genre that distinguish it from other genres. Furthermore, with the result from extraction we will conclude whether the given lyrics is a classic pop or not.
 
